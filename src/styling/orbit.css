@@ -1,0 +1,42 @@
+#orbit{
+	-webkit-animation: spin-right 15s linear infinite;
+  animation: spin-right 15s linear infinite;
+}
+
+#orbit2{
+	-webkit-animation: spin-left 15s linear infinite;
+  animation: spin-left 15s linear infinite;
+}
+
+#blue{
+	background-color: red;
+}
+
+
+@keyframes spin-right {
+	100% {
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		-ms-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes spin-left {
+	100% {
+		-webkit-transform: rotate(-360deg);
+		-moz-transform: rotate(-360deg);
+		-ms-transform: rotate(-360deg);
+		-o-transform: rotate(-360deg);
+		transform: rotate(-360deg);
+	}
+}
+
+#orbit:hover {
+	animation-play-state: paused;
+  }
+
+/* #orbit2:hover{
+	animation-play-state: paused;
+} */
