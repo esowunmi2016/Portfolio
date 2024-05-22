@@ -10,7 +10,7 @@ const App = () => (
       position:'relative'
     }}>
 
-      {/* <Home /> */}
+      <Home />
 
       <Landing />
       <Projects />
