@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.33dbf320.css",
-    "main.js": "/Portfolio/static/js/main.c5480b91.js",
+    "main.js": "/Portfolio/static/js/main.1263d07c.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/igbotvid.mov": "/Portfolio/static/media/igbotvid.a5c400df56e184f7bc9e.mov",
     "static/media/me2.JPG": "/Portfolio/static/media/me2.0c6a64e61d15e68dfd31.JPG",
     "static/media/brunchesSitePic.png": "/Portfolio/static/media/brunchesSitePic.2d457fd4b1178387a8aa.png",
     "static/media/bg1.jpg": "/Portfolio/static/media/bg1.d3981dd5a0db3a32878c.jpg",
     "static/media/elastic-net.png": "/Portfolio/static/media/elastic-net.443122098c1d086f673b.png",
     "static/media/jsGame.mp4": "/Portfolio/static/media/jsGame.ae4f6781c4ecb557d7fe.mp4",
     "static/media/logistic.png": "/Portfolio/static/media/logistic.2fcadd570c28afab2bfc.png",
+    "static/media/R1.png": "/Portfolio/static/media/R1.0ea10fb271dbc8e22631.png",
     "static/media/estatePlusSitePic.png": "/Portfolio/static/media/estatePlusSitePic.6eb900ef710a9cecc2fa.png",
     "static/media/bg4.jpg": "/Portfolio/static/media/bg4.c6030e1531c117dd338d.jpg",
     "static/media/bg3.jpg": "/Portfolio/static/media/bg3.f9aa43f49544bb859d9a.jpg",
@@ -21,11 +23,11 @@
     "static/media/me.jpg": "/Portfolio/static/media/me.08b9269fe5dfeb1856fb.jpg",
     "index.html": "/Portfolio/index.html",
     "main.33dbf320.css.map": "/Portfolio/static/css/main.33dbf320.css.map",
-    "main.c5480b91.js.map": "/Portfolio/static/js/main.c5480b91.js.map",
+    "main.1263d07c.js.map": "/Portfolio/static/js/main.1263d07c.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33dbf320.css",
-    "static/js/main.c5480b91.js"
+    "static/js/main.1263d07c.js"
   ]
 }
